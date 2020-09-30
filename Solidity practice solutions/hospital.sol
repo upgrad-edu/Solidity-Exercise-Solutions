@@ -31,6 +31,4 @@ contract Hospital{
             }
         }
     }
-    
-
-}
+    }
